@@ -27,7 +27,6 @@
 
 ## My name is Kyle. I am a recent graduate from Washington State University.
 
----
 
 ## 💁 About Me
 
@@ -35,8 +34,6 @@
 - 💻 Programmer
 - 🏃 Runner
 - 🍾 Water Enthusiast
-
----
 
 ## 🧰 Languages and Tools
 
@@ -69,8 +66,6 @@
         title="git" alt="git"
         width="40" height="40" />
 </div>
-
---- 
 
 ## 📈 GitHub Stats
 
