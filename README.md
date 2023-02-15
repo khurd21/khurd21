@@ -1,10 +1,5 @@
 <!-- Header Information -->
 <div id="header" align="center">
-    <img
-        src="./img/kyle-hurd-close-up.jpeg"
-        width="100"
-        style="border-radius: 50%"
-    />
     <h1>Kyle Hurd</h1>
     <div id="badges">
         <a href="https://khurd21.github.io" target="_blank">
