@@ -29,55 +29,54 @@
 - 🪂 Licensed Skydiver
 - 💻 Programmer
 - 🏃 Runner
-- 🍾 Water Enthusiast
 
 ## 🧰 Languages and Tools
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"
-        title="vim" alt="vim"
-        width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"
+    <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"
         title="C++" alt="C++"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"
         title="csharp" alt="csharp"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"
         title="python" alt="python"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
         title="vscode" alt="vscode"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png"
+        title="vim" alt="vim"
+        width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"
         title="MacOS" alt="MacOS"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"
         title="linux" alt="linux"
         width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
         title="git" alt="git"
         width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+        title="github" alt="github"
+        width="40" height="40" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b"
+        title="Qt" alt="Qt"
+        width="40" height="40" />
+    <img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32"
+        title="Raspberry Pi" alt="Raspberry Pi"
+        width="40" height="40">
 </div>
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div>
     <table>
     <tr>
         <td>
             <a href="https://github.com/khurd21/">
                 <img
-                    align="center"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurd21&hide=html,tcl,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10"
-                />
-            </a>
-            <td>
-            <a href="https://github.com/khurd21/">
-                <img
-                    align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=khurd21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-                    alt="Kyle's GitHub Stats"
                 />
             </a>
         </td>
